@@ -23,7 +23,9 @@ Hack+
 * [tryhackme](https://tryhackme.com/ "tryhackme")
 * [Vulnhub](https://www.vulnhub.com/ "Vulnhub")
 * [HackTheBox](https://www.hackthebox.eu/ "HTB")
-
+* [DefendTheWeb](https://defendtheweb.net/ "DTW")
+* [HackThisSite](https://www.hackthissite.org/ "HackThisSite")
+* [HackGame](https://hackgame.chaurocks.com/ "HackGame")
 ## Blogs:
 * [Hacksplaining](https://www.hacksplaining.com/ "Hacksplaining")
 * [HackingBlog](https://www.hackingarticles.in/ "HackingBlog")
