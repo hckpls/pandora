@@ -22,8 +22,10 @@ Hack+
 * [exploit.education](https://exploit.education/ "Exploit-Education")
 * [tryhackme](https://tryhackme.com/ "tryhackme")
 * [Vulnhub](https://www.vulnhub.com/ "Vulnhub")
-* [HackTheBox](https://www.hackthebox.eu/ "HTB")
-
+* [HackTheBox](https://www.hackthebox.eu/ "HTB") - Walkthrough for HTB-> [Hacksome](https://hackso.me/) and [HTBWalkthrough](https://htb.hackproof.tech/)
+* [DefendTheWeb](https://defendtheweb.net/ "DTW")
+* [HackThisSite](https://www.hackthissite.org/ "HackThisSite")
+* [HackGame](https://hackgame.chaurocks.com/ "HackGame")
 ## Blogs:
 * [Hacksplaining](https://www.hacksplaining.com/ "Hacksplaining")
 * [HackingBlog](https://www.hackingarticles.in/ "HackingBlog")
