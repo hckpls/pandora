@@ -44,13 +44,7 @@ Hack+
 * [Professor Messer](https://www.youtube.com/user/professormesser "Professor Messer's YouTube")
 
 ## Twitter Accounts:
-* [LiveOverFlow](https://twitter.com/LiveOverflow "LiveOverFlow's Twitter")
-*You can also follow the people whom LiveOverFlow follows*
-* [NahamSec](https://twitter.com/NahamSec "NahamSec's Twitter")
-* [Ayoub Fathi](https://twitter.com/_ayoubfathi_ "Ayoub Fathi's Twitter")
-* [BruteLogic](https://twitter.com/brutelogic "BruteLogic's Twitter")
-* [Abdel Hafid Ait Chikh](https://twitter.com/HafidAitChikh "Abdel Hafid Ait Chikh's Twitter")
-* [Jane Wong](https://twitter.com/wongmjane "Jane Wong's Twitter")
+
 * [Black Hat](https://twitter.com/BlackHatEvents "Black Hat's Twitter")
 * [DEF CON](https://twitter.com/defcon "DEF CON's Twitter")
 * [Freedom Of Press](https://twitter.com/FreedomofPress "Freedom Of Press's Twitter")
