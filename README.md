@@ -5,6 +5,11 @@ Hack+
 * [CodesDope](https://www.codesdope.com/ "Codes Dope")
 * [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp")
 * [Hackerrank](https://www.hackerrank.com/ "Hackerrank")
+* [OSSU](https://github.com/ossu/computer-science "OSSU") (Open Source Society University)
+* [CodeWars](https://www.codewars.com/ "CodeWars")
+* [hackr.io](https://hackr.io/ "hackr.io") (To find new stuff)
+* [GoalKicker](https://goalkicker.com/ "GoalKicker") (Lots of Notes)
+* [Exercism](https://exercism.io/ "Exercism") (Lots of exercises)
 
 ## Course:
 * [Cybrary](https://app.cybrary.it/ "Cybrary")
@@ -26,6 +31,7 @@ Hack+
 * [DefendTheWeb](https://defendtheweb.net/ "DTW")
 * [HackThisSite](https://www.hackthissite.org/ "HackThisSite")
 * [HackGame](https://hackgame.chaurocks.com/ "HackGame")
+
 ## Blogs:
 * [Hacksplaining](https://www.hacksplaining.com/ "Hacksplaining")
 * [HackingBlog](https://www.hackingarticles.in/ "HackingBlog")
