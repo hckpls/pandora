@@ -39,6 +39,7 @@ Hack+
 * [PentesterLand](https://pentester.land/ "PentesterLand")
 * [BugBountyWrite-up](https://medium.com/bugbountywriteup/ "BBWrite-up")
 * [PortSwigger-Research](https://portswigger.net/research "PS-Research")
+* [Sean's Blog](https://medium.com/@zseano "Sean's Blog")
 
 ## YouTube Channels:
 * [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "LiveOverFlow's YouTube")
