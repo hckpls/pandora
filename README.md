@@ -40,6 +40,7 @@ Hack+
 * [BugBountyWrite-up](https://medium.com/bugbountywriteup/ "BBWrite-up")
 * [PortSwigger-Research](https://portswigger.net/research "PS-Research")
 * [Sean's Blog](https://medium.com/@zseano "Sean's Blog")
+* [NetSec](https://netsec.ws/ "NetSec")
 
 ## YouTube Channels:
 * [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "LiveOverFlow's YouTube")
