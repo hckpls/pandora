@@ -1,5 +1,7 @@
 # pandora
 Hack+ 
+####  [JOIN OUR TELEGRAM CHANNEL](https://t.me/hacking_group_channel)
+####  [JOIN OUR TELEGRAM GROUP](https://t.me/hack_plus_chat)
 
 * [Whats is hacking?](https://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/)
 * [Starting out? Read this!](https://www.reddit.com/r/HowToHack/comments/17tipp/rhowtohack_faq_starting_tips_resources_books_and/)
@@ -149,5 +151,4 @@ Hack+
 * [Awesome Security](https://github.com/sbilly/awesome-security)
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 
-* [JOIN OUR TELEGRAM CHANNEL](https://t.me/hacking_group_channel)
-* [JOIN OUR TELEGRAM GROUP](https://t.me/hack_plus_chat)
+
