@@ -116,10 +116,7 @@ Hack+
    * [r/TOR](https://www.reddit.com/r/TOR/)
    * [r/onions](https://www.reddit.com/r/onions/) (They make me cry)
    * [r/i2p](https://www.reddit.com/r/i2p/) (I don't like their logo)
-   *
    
-  
-
 ## YouTube Channels:
 * [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "LiveOverFlow's YouTube")
 * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA "IppSec's YouTube")
