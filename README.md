@@ -149,3 +149,5 @@ Hack+
 * [Awesome Security](https://github.com/sbilly/awesome-security)
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 
+* [JOIN OUR TELEGRAM CHANNEL](https://t.me/hacking_group_channel)
+* [JOIN OUR TELEGRAM GROUP](https://t.me/hack_plus_chat)
