@@ -34,7 +34,6 @@ Hack+
 ## Games and CTFs:
 
 * [For in-depth CTFs](https://github.com/apsdehal/awesome-ctf) (Much better, organised list for CTFs and tools and even more)
-
 * [List of more CTFs](http://captf.com/practice-ctf/)
 * [OverTheWire](https://overthewire.org/ "OTW")
 * [picoCTF](https://picoctf.com/ "picoCTF")
@@ -54,7 +53,6 @@ Hack+
 * [pwnable.tw](https://pwnable.tw/)
 * [HAX.TOR](http://hax.tor.hu/welcome/) (Really old, but sure you can give it a try)
 * [CryptoHack](https://cryptohack.org/) (For crypto)
-
 * [For CTF talk and help](https://www.reddit.com/r/securityCTF/)
 
 ## Blogs:
