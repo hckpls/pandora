@@ -3,7 +3,7 @@ Hack+
 
 * [Whats is hacking?](https://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/)
 * [Starting out? Read this!](https://www.reddit.com/r/HowToHack/comments/17tipp/rhowtohack_faq_starting_tips_resources_books_and/)
-* [How to be the elite h@x0r](https://www.youtube.com/watch?v=zixpms1oo40&feature=youtu.be)
+* [How to be the elite hacker](https://www.youtube.com/watch?v=zixpms1oo40&feature=youtu.be)
 
 ## NEWS
 * [NakedSecurity](https://nakedsecurity.sophos.com/)
