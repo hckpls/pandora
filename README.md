@@ -1,7 +1,7 @@
 # pandora
 Hack+ 
 * _[Join our telegram channel](https://t.me/hacking_group_channel)_
-* _[Join our telgram group](https://t.me/hack_plus_chat)_
+* _[Join our telegram group](https://t.me/hack_plus_chat)_
 
 
 
