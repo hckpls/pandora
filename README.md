@@ -3,6 +3,8 @@ Hack+
 * _[Join our telegram channel](https://t.me/hacking_group_channel)_
 * _[Join our telgram group](https://t.me/hack_plus_chat)_
 
+
+
 * [Whats is hacking?](https://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/)
 * [Starting out? Read this!](https://www.reddit.com/r/HowToHack/comments/17tipp/rhowtohack_faq_starting_tips_resources_books_and/)
 * [How to be the elite hacker](https://www.youtube.com/watch?v=zixpms1oo40&feature=youtu.be)
@@ -51,6 +53,7 @@ Hack+
 * [HackGame](https://hackgame.chaurocks.com/ "HackGame")
 * [pwnable.tw](https://pwnable.tw/)
 * [HAX.TOR](http://hax.tor.hu/welcome/) (Really old, but sure you can give it a try)
+* [CryptoHack](https://cryptohack.org/) (For crypto)
 
 * [For CTF talk and help](https://www.reddit.com/r/securityCTF/)
 
@@ -64,6 +67,7 @@ Hack+
 * [PortSwigger-Research](https://portswigger.net/research "PS-Research")
 * [Sean's Blog](https://medium.com/@zseano "Sean's Blog")
 * [NetSec](https://netsec.ws/ "NetSec")
+* [0x00sec](https://0x00sec.org/)
 
 ## Subreddits:
 
