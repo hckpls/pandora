@@ -142,8 +142,9 @@ Hack+
 * [Freedom Of Press](https://twitter.com/FreedomofPress "Freedom Of Press's Twitter")
 * [THe Hacker News](https://twitter.com/TheHackersNews "The Hacker News's Twitter")
 
-## Podcast:
-* [DarknetDiaries](https://darknetdiaries.com/) (Good for the break and chill your mind)
+## Leisure:
+* [DarknetDiaries(Podcast)](https://darknetdiaries.com/) (Good for the break and chill your mind and to know about awesome hacks)
+* [Movies you might like](https://github.com/k4m4/movies-for-hackers) (To become the h@X0R)
 
 ## Awesome Github Lists:
 
@@ -157,5 +158,25 @@ Hack+
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Security](https://github.com/sbilly/awesome-security)
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [Awesome InfoSec](https://github.com/onlurking/awesome-infosec)
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [Awesome Pentest-Cheat-Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
+* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [Awesome Competitve Programming](https://github.com/lnishan/awesome-competitive-programming)
+* [Awesome Penetesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+* [Awesome CheatSheet](https://github.com/OlivierLaflamme/Cheatsheet-God)
+* [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
+* [Awesome Browser Exploit](https://github.com/Escapingbug/awesome-browser-exploit)
+* [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
+* [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy)
+* [Awesome My Infosec](https://github.com/pe3zx/my-infosec-awesome)
+* [Awesome Windows Red Team](https://github.com/marcosValle/awesome-windows-red-team)
+* [Awesome Privilege Escaltion](https://github.com/m0nad/awesome-privilege-escalation)
 
 
