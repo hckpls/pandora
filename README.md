@@ -25,7 +25,7 @@ Hack+
 * [GoalKicker](https://goalkicker.com/ "GoalKicker") (Lots of Notes)
 * [Exercism](https://exercism.io/ "Exercism") (Lots of exercises)
 * [Programmr](https://www.programmr.com/) (Similar site as above)
-* [LettCode](https://leetcode.com/)
+* [LeetCode](https://leetcode.com/)
 
 ## Course:
 * [Cybrary](https://app.cybrary.it/ "Cybrary")
