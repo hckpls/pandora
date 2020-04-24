@@ -18,11 +18,14 @@ Hack+
 * [CodesDope](https://www.codesdope.com/ "Codes Dope")
 * [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp")
 * [Hackerrank](https://www.hackerrank.com/ "Hackerrank")
+* [HackerEarth](https://www.hackerearth.com/)
 * [OSSU](https://github.com/ossu/computer-science "OSSU") (Open Source Society University)
 * [CodeWars](https://www.codewars.com/ "CodeWars")
 * [hackr.io](https://hackr.io/ "hackr.io") (To find new stuff)
 * [GoalKicker](https://goalkicker.com/ "GoalKicker") (Lots of Notes)
 * [Exercism](https://exercism.io/ "Exercism") (Lots of exercises)
+* [Programmr](https://www.programmr.com/) (Similar site as above)
+* [LettCode](https://leetcode.com/)
 
 ## Course:
 * [Cybrary](https://app.cybrary.it/ "Cybrary")
@@ -33,12 +36,14 @@ Hack+
 
 ## Games and CTFs:
 
+* [Brief Intro to CTFs](https://ctfs.github.io/resources/)
+* [Brief Intro to CTFs _Returns_](https://trailofbits.github.io/ctf/)
 * [For in-depth CTFs](https://github.com/apsdehal/awesome-ctf) (Much better, organised list for CTFs and tools and even more)
 * [List of more CTFs](http://captf.com/practice-ctf/)
 * [OverTheWire](https://overthewire.org/ "OTW")
 * [picoCTF](https://picoctf.com/ "picoCTF")
 * [Hacker101](https://www.hacker101.com/ "Hacker101")
-* [CTFtime](https://ctftime.org/ "CTFtime")
+* [CTFtime](https://ctftime.org/ "CTFtime") - Writeups for CTFtime -> [Write-up](https://ctftime.org/writeups)
 * [root-me](https://www.root-me.org/ "root-me")
 * [exploit.education](https://exploit.education/ "Exploit-Education")
 * [tryhackme](https://tryhackme.com/ "tryhackme")
