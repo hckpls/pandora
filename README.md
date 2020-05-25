@@ -6,8 +6,9 @@ Hack+
 
 
 * [Whats is hacking?](https://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/)
-* [Starting out? Read this!](https://www.reddit.com/r/HowToHack/comments/17tipp/rhowtohack_faq_starting_tips_resources_books_and/)
+* [Starting out? Read this first!](https://www.reddit.com/r/HowToHack/comments/17tipp/rhowtohack_faq_starting_tips_resources_books_and/)
 * [How to be the elite hacker](https://www.youtube.com/watch?v=zixpms1oo40&feature=youtu.be)
+* [SecTools](https://sectools.org/)
 
 ## NEWS
 * [NakedSecurity](https://nakedsecurity.sophos.com/)
@@ -15,6 +16,7 @@ Hack+
 * [THN](https://thehackernews.com/)
 
 ## Programming Sites:
+* [Learn About OS](https://wiki.osdev.org/Expanded_Main_Page)
 * [CodesDope](https://www.codesdope.com/ "Codes Dope")
 * [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp")
 * [Hackerrank](https://www.hackerrank.com/ "Hackerrank")
@@ -42,6 +44,7 @@ Hack+
 * [List of more CTFs](http://captf.com/practice-ctf/)
 * [OverTheWire](https://overthewire.org/ "OTW")
 * [picoCTF](https://picoctf.com/ "picoCTF")
+* [ThisIsLegal](https://thisislegal.com/)
 * [Hacker101](https://www.hacker101.com/ "Hacker101")
 * [CTFtime](https://ctftime.org/ "CTFtime") - Writeups for CTFtime -> [Write-up](https://ctftime.org/writeups)
 * [root-me](https://www.root-me.org/ "root-me")
@@ -58,7 +61,11 @@ Hack+
 * [pwnable.tw](https://pwnable.tw/)
 * [HAX.TOR](http://hax.tor.hu/welcome/) (Really old, but sure you can give it a try)
 * [CryptoHack](https://cryptohack.org/) (For crypto)
+* [Enigma](https://www.enigmagroup.org/) (Focuses on Web Application Security)
+* [Halls Of Valhalla](https://halls-of-valhalla.org/beta/)
+* [WeChall](https://www.wechall.net/)
 * [For CTF talk and help](https://www.reddit.com/r/securityCTF/)
+
 
 ## Blogs:
 * [LiveOverFlow](http://www.liveoverflow.com/)
@@ -83,6 +90,7 @@ Hack+
    * [r/SocialEngg](https://www.reddit.com/r/SocialEngineering/)
    * [r/XSS](https://www.reddit.com/r/xss/)
    * [r/AntiForensic](https://www.reddit.com/r/antiforensics/)
+   * [r/SocialEngineering](https://www.reddit.com/r/SocialEngineering/)
    
    ### Malware and RE:
    * [r/Malware](https://www.reddit.com/r/Malware/)
