@@ -117,8 +117,10 @@ Hack+
    * [r/MemoryForensics](https://www.reddit.com/r/memoryforensics/)
    
    ### Security:
-   * [r/netsec](https://www.reddit.com/r/netsec/)
+   * [r/netsec](https://www.reddit.com/r/netsec/) (Most Active)
+   * [r/AskNetSec](https://www.reddit.com/r/AskNetsec/)
    * [r/security](https://www.reddit.com/r/security/)
+   * [r/CyberSecurity](https://www.reddit.com/r/cybersecurity/)
    * [r/infosec](https://www.reddit.com/r/Infosec/)
    * [r/websec](https://www.reddit.com/r/websec/)
    * [r/physec](https://www.reddit.com/r/physec/)
@@ -131,9 +133,13 @@ Hack+
    * [r/devops](https://www.reddit.com/r/devops/)
    * [r/programming](https://www.reddit.com/r/programming/)
    
-   ### Learning and Certs:
+   ### Certifications:
    * [r/CompTIA](https://www.reddit.com/r/CompTIA/)
-   * [r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
+   * [r/netsecstudents](https://www.reddit.com/r/netsecstudents/) (Really Active and Helpful)
+   * [r/OSCP](https://www.reddit.com/r/oscp/)
+   * [r/CISSP](https://www.reddit.com/r/cissp/)
+   * [r/CCNA](https://www.reddit.com/r/ccna/)
+   * [r/CCNP](https://www.reddit.com/r/ccnp/)
    
    ### Crypto:
    * [r/crypro](https://www.reddit.com/r/crypto/)
@@ -147,14 +153,20 @@ Hack+
    * [r/TOR](https://www.reddit.com/r/TOR/)
    * [r/onions](https://www.reddit.com/r/onions/) (They make me cry)
    * [r/i2p](https://www.reddit.com/r/i2p/) (I don't like their logo)
+   * [Multi-Reddit](https://www.reddit.com/user/goretsky/m/security/) (Just a curated list of lot of security related subreddits)
    
 ## YouTube Channels:
 * [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "LiveOverFlow's YouTube")
+* [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+* [ComputerPhile](https://www.youtube.com/user/Computerphile/videos) (Lot's of stuff, my personal favourite)
 * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA "IppSec's YouTube")
 * [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A "PwnFunction's YouTube")
+* [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 * [GynvaeIEN](https://www.youtube.com/user/GynvaelEN "GynvaeIEN's YouTube")
 * [TheCyberMentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw "TCM's YouTube")
 * [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g "Null Byte's YouTube")
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA/featured)
+* [The PC Security](https://www.youtube.com/user/ThePCSecurity/featured)
 * [Professor Messer](https://www.youtube.com/user/professormesser "Professor Messer's YouTube")
 
 ## Twitter Accounts:
@@ -167,6 +179,10 @@ Hack+
 ## Leisure:
 * [DarknetDiaries(Podcast)](https://darknetdiaries.com/) (Good for the break and chill your mind and to know about awesome hacks)
 * [Movies you might like](https://github.com/k4m4/movies-for-hackers) (To become the h@X0R)
+
+* [Grey Hack (Game)](https://store.steampowered.com/app/605230/Grey_Hack/) 
+* [Hacknet (Game)](https://store.steampowered.com/app/605230/Grey_Hack/)
+* P.S- Games are based on actual hacking so not like Watch Dogs Franchise
 
 ## Awesome Github Lists:
 
