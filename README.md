@@ -71,6 +71,14 @@ Hack+
 * [For CTF talk and help](https://www.reddit.com/r/securityCTF/)
 
 
+## Discord Communties:
+* [The Cyber Mentor](https://discord.com/invite/REfpPJB)
+* [Hacker101](https://discord.com/invite/GffEC6c)
+* [InfosecPrep](https://discord.com/invite/mEtEFhp)
+* [HackTheBox](https://discord.com/invite/hRXnCFA)
+* DO LET US KNOW IF THE INVITE LINKS DON'T WORK
+
+
 ## Blogs:
 * [LiveOverFlow](http://www.liveoverflow.com/)
 * [Hacksplaining](https://www.hacksplaining.com/ "Hacksplaining")
@@ -82,6 +90,8 @@ Hack+
 * [Sean's Blog](https://medium.com/@zseano "Sean's Blog")
 * [NetSec](https://netsec.ws/ "NetSec")
 * [0x00sec](https://0x00sec.org/)
+* [Sylv3on's Blog](https://sylv3on.com/)
+* [Sam Curry's Blog](https://samcurry.net/blog/)
 
 ## Subreddits:
 
@@ -176,7 +186,6 @@ Hack+
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Awesome Pentest-Cheat-Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 * [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
-* [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Awesome Competitve Programming](https://github.com/lnishan/awesome-competitive-programming)
 * [Awesome Penetesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
