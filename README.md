@@ -181,7 +181,7 @@ Hack+
 * [Movies you might like](https://github.com/k4m4/movies-for-hackers) (To become the h@X0R)
 
 * [Grey Hack (Game)](https://store.steampowered.com/app/605230/Grey_Hack/) 
-* [Hacknet (Game)](https://store.steampowered.com/app/605230/Grey_Hack/)
+* [Hacknet (Game)](https://store.steampowered.com/app/365450/Hacknet/)
 * P.S- Games are based on actual hacking so not like Watch Dogs Franchise
 
 ## Awesome Github Lists:
