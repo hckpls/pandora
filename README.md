@@ -71,7 +71,7 @@ Hack+
 * [For CTF talk and help](https://www.reddit.com/r/securityCTF/)
 
 
-## Discord Communties:
+## Discord Communities:
 * [The Cyber Mentor](https://discord.com/invite/REfpPJB)
 * [Hacker101](https://discord.com/invite/GffEC6c)
 * [InfosecPrep](https://discord.com/invite/mEtEFhp)
