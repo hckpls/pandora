@@ -2,8 +2,6 @@
 
 <img src="https://i.ibb.co/CzggdwD/pandora.png">
 
-### Hack+ 
-
 ## Table of Contents
 
 * [Programming Sites](https://github.com/hckpls/pandora#programming-sites)
@@ -29,6 +27,7 @@
  - [The Ulitmate Tool](https://www.google.com/)
  - [SecLists](https://seclists.org/)
  - [1 Button Socia Media Password Stealer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ - [How to start hacking](https://medium.com/@iamavu/init-how-to-hack-dc4f721398c9)
 
 ## NEWS
 |Name|Link  |
