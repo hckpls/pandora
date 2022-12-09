@@ -6,7 +6,7 @@
 
 * [Programming Sites](https://github.com/hckpls/pandora#programming-sites)
 * [News Feed](https://github.com/hckpls/pandora#news)
-* [Courses](https://github.com/hckpls/pandora#course)
+* [Courses](https://github.com/hckpls/pandora#courses)
 * [CTF and Wargames](https://github.com/hckpls/pandora#wargames-and-ctfs)
 * [Communities](https://github.com/hckpls/pandora#wargames-and-ctfs) 
 * [Blogs](https://github.com/hckpls/pandora#blogs)
@@ -14,7 +14,7 @@
 * [YouTube Channels](https://github.com/hckpls/pandora#youtube-channels)
 * [Twitter Accounts](https://github.com/hckpls/pandora#twitter-accounts)
 * [Leisure](https://github.com/hckpls/pandora#leisure)
-* [Awesome GitHub Lists](https://github.com/hckpls/pandora#leisure)
+* [Awesome GitHub Lists](https://github.com/hckpls/pandora#awesome-github-lists)
  
  
 
