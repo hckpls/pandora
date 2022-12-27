@@ -29,6 +29,7 @@
  - [SecLists](https://seclists.org/)
  - [1 Button Socia Media Password Stealer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  - [How to start hacking](https://medium.com/@iamavu/init-how-to-hack-dc4f721398c9)
+ - [Pandora v2](https://iamavu.gitbook.io/the-texts-of-athena/)  By [@iamavu](https://github.com/iamavu)
 
 ## NEWS
 |Name|Link  |
