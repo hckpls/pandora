@@ -15,6 +15,7 @@
 * [Twitter Accounts](https://github.com/hckpls/pandora#twitter-accounts)
 * [Leisure](https://github.com/hckpls/pandora#leisure)
 * [Awesome GitHub Lists](https://github.com/hckpls/pandora#awesome-github-lists)
+* [Useful Tools](https://github.com/hckpls/pandora#useful-tools)
  
  
 
@@ -28,6 +29,7 @@
  - [SecLists](https://seclists.org/)
  - [1 Button Socia Media Password Stealer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  - [How to start hacking](https://medium.com/@iamavu/init-how-to-hack-dc4f721398c9)
+ - [Pandora v2](https://iamavu.gitbook.io/the-texts-of-athena/)  By [@iamavu](https://github.com/iamavu)
 
 ## NEWS
 |Name|Link  |
@@ -177,6 +179,15 @@
 * [Awesome My Infosec](https://github.com/pe3zx/my-infosec-awesome)
 * [Awesome Windows Red Team](https://github.com/marcosValle/awesome-windows-red-team)
 * [Awesome Privilege Escaltion](https://github.com/m0nad/awesome-privilege-escalation)
+
+## Useful Tools
+|Tool|About|
+|--|--|
+| [CyberChef](https://github.com/gchq/CyberChef)  | A web app for encryption, encoding, compression and data analysis |
+| [Reverse Shell Generator](https://github.com/0dayCTF/reverse-shell-generator) | Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs) |
+| [PHP Reverse Shell Script Page](https://github.com/pentestmonkey/php-reverse-shell) | Reverse shell the php site with access to uploaded .php page (custom about not from repository lol) |
+| [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) | GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
+| [LOLBAS Project](https://github.com/LOLBAS-Project/LOLBAS-Project.github.io) | Alternate of GFTOBins for Window system |
 
 ## Contribution :
 Feel free to create a pull request and add new resources or anything you feel like!
